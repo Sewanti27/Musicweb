@@ -1,0 +1,118 @@
+body{
+  text-align:center;
+  background-color:hsl(225, 100%, 94%);
+  margin:0;
+  font-family: 'Red Hat Display', sans-serif;
+}
+.h1{
+  font-weight:900;
+  color:hsl(223, 47%, 23%);
+}
+.Cancel{
+  text-decoration: none;
+}
+.change1{
+  text-decoration:none;
+  position:relative;
+  bottom:70px;
+  left:70px;
+}
+.centring{
+  width:70%;
+  margin-left: 70px;
+}
+.annualplan{
+  background-color:hsl(225, 100%, 98%);
+  border-radius:20px;
+  padding:10px;
+  width:400px;
+  height:70px;
+  margin:auto;
+}
+.annual1{
+  margin:0;
+  padding:10px 190px 10px 0;
+}
+
+.attribution{
+  background-color:hsl(245, 75%, 52%);
+  height:70px;
+  padding:30px;
+}
+
+.footer{
+  font-size:20px;
+  color:white;
+}
+/*****************IMAGE EDITING******************/
+.image1{
+  position:relative;
+  bottom:350px;
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+  margin-top:0;
+}
+.intropage{
+  height:500px;
+  width:450px;
+  margin:auto;
+  background-color:white;
+  position:relative;
+  bottom:375px;
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius:25px;
+  padding-top:20px;
+}
+
+.icon1{
+  float:left;
+  margin-left:50px;
+  margin-top:10px;
+}
+
+.price{
+  position:relative;
+  right:95px;
+  bottom:20px;
+
+}
+.text{
+  text-decoration: none;
+  color:white;
+}
+/*************Button Generator********************/
+.button {
+   background: #3829E0;
+   background-image: -webkit-linear-gradient(top, #3829E0, #3829E0);
+   background-image: -moz-linear-gradient(top, #3829E0, #3829E0);
+   background-image: -ms-linear-gradient(top, #3829E0, #3829E0);
+   background-image: -o-linear-gradient(top, #3829E0, #3829E0);
+   background-image: -webkit-gradient(to bottom, #3829E0, #3829E0);
+   -webkit-border-radius: 12px;
+   -moz-border-radius: 12px;
+   border-radius: 12px;
+   color: #FFFFFF;
+   font-family: 'Red Hat Display', sans-serif;
+   font-size: 16px;
+   font-weight: 500;
+   padding: 15px;
+   border: solid #337FED 0;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.button:hover {
+   border: solid #337FED 1px;
+   background: #1F2F56;
+   background-image: -webkit-linear-gradient(top, #1F2F56, #3D94F6);
+   background-image: -moz-linear-gradient(top, #1F2F56, #3D94F6);
+   background-image: -ms-linear-gradient(top, #1F2F56, #3D94F6);
+   background-image: -o-linear-gradient(top, #1F2F56, #3D94F6);
+   background-image: -webkit-gradient(to bottom, #1F2F56, #3D94F6);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
